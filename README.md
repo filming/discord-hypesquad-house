@@ -1,4 +1,4 @@
-# discord-hypesquad-house
+# Discord Hypesquad House Changer
 This program allows you to choose a Discord Hypesquad house without having to take a quiz.
 
 Requirements:
