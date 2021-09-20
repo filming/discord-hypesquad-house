@@ -7,7 +7,7 @@ import json
 init(convert = True)
 
 def initial_visual():
-	sign = "Made By Snowy#1230"
+	sign = "Made By Filming#6252"
 	bad_colors = ['BLACK', 'WHITE', 'LIGHTBLACK_EX', 'RESET']
 	codes = vars(Fore)
 	colors = [codes[color] for color in codes if color not in bad_colors]
